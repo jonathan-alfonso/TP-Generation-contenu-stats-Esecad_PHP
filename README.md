@@ -6,12 +6,12 @@ Les élèves des trois écoles suivantes :
 - École C
 
   
-  peuvent pratiquer les cinq sports suivants :  
-  - boxe,
-  - judo,
-  - football,
-  - natation,
-  - cyclisme.
+peuvent pratiquer les cinq sports suivants :  
+- boxe,
+- judo,
+- football,
+- natation,
+- cyclisme.
 
 Nous devons effectuer les tâches suivantes :  
   
